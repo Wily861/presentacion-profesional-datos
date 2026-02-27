@@ -57,9 +57,9 @@ Soy **Wily Duvan Villamil Rey**, radicado en Medellín, Antioquia. Mi enfoque es
 * Framework de integración de datos con manejo de errores robusto, Checkpoints y auditoría de carga.
 * Implementación de lógica de negocio compleja fuera de los triggers para mejorar el performance.
 
-#### [➔ Infraestructura como Código & Seguridad](LINK_A_TU_REPOSITORIO)
-* Gestión de permisos basada en roles (RBAC) y scripts de endurecimiento (Hardening) de instancias SQL.
-
+#### [➔ Clinical DB Engine: Arquitectura & Gobernanza](https://github.com/Wily861/Clinical-DB-Engine)
+* Implementación de **Seguridad Granular (RBAC)** y Hardening de base de datos para la protección de datos sensibles bajo estándares de salud.
+* Diseño de esquemas relacionales **3NF** y optimización de capas de reporte para analítica estratégica mediante ODBC.
 ---
 
 ### 🎓 Certificaciones Clave
