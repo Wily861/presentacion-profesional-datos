@@ -48,9 +48,10 @@ Soy **Wily Duvan Villamil Rey**, radicado en Medellín, Antioquia. Mi enfoque es
 
 ### 📂 Proyectos Destacados (Engineering & Ops)
 
-#### [➔ SQL Server Performance Tuning Toolkit](LINK_A_TU_REPOSITORIO)
-* Scripts avanzados para detección de **Deadlocks**, fragmentación de índices y monitoreo de `tempdb`.
-* Automatización de planes de mantenimiento preventivo.
+#### [➔ Postgres Credit Engine: Arquitectura Financiera](https://github.com/Wily861/Postgres-Credit-Engine)
+* Diseño y modelado de un sistema de gestión de créditos con **consistencia ACID** e integridad referencial.
+* Automatización de lógica de negocio compleja (cálculo de saldos e intereses) mediante **Triggers y funciones PL/pgSQL**.
+* Optimización de rendimiento a través de estrategias de indexación avanzada en PostgreSQL.
 
 #### [➔ Modern ETL Pipelines (SSIS & Python)](https://github.com/Wily861/SQL-Pro-Toolkit)
 * Framework de integración de datos con manejo de errores robusto, Checkpoints y auditoría de carga.
